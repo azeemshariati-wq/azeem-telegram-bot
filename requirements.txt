@@ -1,4 +1,4 @@
-Malware Link
+MalwareLink
 Flask
 gunicorn
 requests
